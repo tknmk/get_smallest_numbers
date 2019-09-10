@@ -10,3 +10,9 @@ Find the 1st smallest and 2nd smallest number and print them.
 1. git clone
 2. Edit the code as you want to.
 3. run!
+
+#### output
+
+```
+The smallest numnber is -3 and second smallest number is -2
+```
